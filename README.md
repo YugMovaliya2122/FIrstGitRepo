@@ -1,2 +1,2 @@
 # FIrstGitRepo
-It is my first gitHub repo
+It is my first gitHub repo.
